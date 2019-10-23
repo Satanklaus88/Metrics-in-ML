@@ -1,2 +1,2 @@
 # Metrics-in-ML
-Высчитываются метрики качества на примерах предсказаний алгоритмов классификации
+![scores](pics/roc-auc.png "scores for algos")
